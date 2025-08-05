@@ -1,4 +1,4 @@
-﻿namespace Acx
+﻿namespace rkg
 {
     namespace Commerce.Runtime.ReceiptsSample
     {
